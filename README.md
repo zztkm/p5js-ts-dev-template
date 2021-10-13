@@ -1,7 +1,45 @@
 # p5.dev
 
-p5.js を ts で開発するためのリポジトリです。
+p5.js を TypeScript で開発するためのリポジトリです。
 
+
+## Refs
+
+- Home | Vite
+	- https://ja.vitejs.dev/
+- 静的サイトのデプロイ | Vite
+	- https://ja.vitejs.dev/guide/static-deploy.html
+
+## Guide
+
+
+依存関係のインストール
+```shell
+yarn install
+# or
+npm install
+```
+
+開発サーバーの起動(コマンド実行後に http://localhost:3000/ をブラウザで開く)
+```shell
+yarn run dev
+# or
+npm run dev
+```
+
+ビルド
+```shell
+yarn run build
+# or
+npm run build
+```
+
+ビルドしたファイルの確認
+```shell
+yarn run serve
+# or
+npm run serve
+```
 
 ## p5.sound リファレンス
 
