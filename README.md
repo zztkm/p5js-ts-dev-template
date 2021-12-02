@@ -2,6 +2,8 @@
 
 p5.js を TypeScript で開発するためのリポジトリです。
 
+`Use this template` から新しくリポジトリを作成してください。
+
 
 ## Refs
 
